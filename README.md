@@ -325,12 +325,11 @@ See [`Print files/Print Orientation Guide/PRINT_ORIENTATION_GUIDE.md`](Print%20f
 
 For each finger, assemble in the following order:
 
-1. Attach the **base linkage** to the quick-release pin (do not install on shaft yet)
-2. Connect the **intermediate linkage** to the base linkage via M3 screw and nut — select the appropriate hole on the intermediate linkage for the user's finger length
-3. Connect the **vertical linkage** to the intermediate linkage via M3 screw and nut through the chosen hole position
-4. Slide the **base finger connector (MCP)** onto the slot of the vertical linkage and secure with M3 screw and nut
-5. Attach the **L-shape linkage** to the middle holes of the vertical linkage via M3 screw and nut
-6. Slide the **small finger connector (PIP/DIP)** onto the slot of the L-shape linkage and secure with M3 screw and nut
+1. Connect the **intermediate linkage** to the base linkage via M3 screw and nut — select the appropriate hole on the intermediate linkage for the user's finger length
+2. Connect the **vertical linkage** to the intermediate linkage via M3 screw and nut through the chosen hole position
+3. Slide the **base finger connector (MCP)** onto the slot of the vertical linkage and secure with M3 screw and nut
+4. Attach the **L-shape linkage** to the middle holes of the vertical linkage via M3 screw and nut
+5. Slide the **small finger connector (PIP/DIP)** onto the slot of the L-shape linkage and secure with M3 screw and nut
 
 Repeat for all four fingers. Use the shorter intermediate linkage (100 mm) for the pinky.
 
@@ -421,5 +420,4 @@ Connect the battery and power on the device. Command the servo to flex and exten
 
 ---
 
-*Developed at the [Figueroa Robotics Lab](https://github.com/penn-figueroa-lab), University of Pennsylvania GRASP Laboratory.*  
-*Website template borrowed from [Nerfies](https://github.com/nerfies/nerfies.github.io).*
+*Developed at the [Figueroa Robotics Lab](https://github.com/penn-figueroa-lab), University of Pennsylvania GRASP Laboratory.*
