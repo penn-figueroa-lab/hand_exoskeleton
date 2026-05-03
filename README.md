@@ -68,7 +68,7 @@ The exoskeleton is designed around the following core goals:
 - **Bidirectional motion**: The motor drives both flexion (closing) and extension (opening) of the fingers.
 - **Patient-targeted**: Designed for users who retain partial hand control. The device augments, rather than fully replaces, voluntary effort.
 - **Adjustable fit**: Multiple mounting hole positions on each linkage and slot-based connections on finger connectors accommodate a range of finger lengths and hand sizes.
-- **Fully 3D-printed structure**: All custom parts are printed in PLA using a single Bambu Lab P1S print bed (~11.5 hours, ~230g filament).
+- **Fully 3D-printed structure**: All custom parts are printed in PLA using a single Bambu Lab P1S print bed (~11.5 hours, ~233g filament).
 
 **Grip strength target**: Based on published grip strength data (male average 45 kg, female average 32 kg), the device targets 20 kg (200 N) of assistive grip force. With a 50 mm effective lever arm at the PIP joint, this requires approximately 10 Nm at the output — met by the ST3215's 30 kg·cm (2.94 Nm) stall torque multiplied through the 2.5:1 gear train and the mechanical advantage of the linkage system.
 
@@ -283,7 +283,7 @@ All parts are printed in **PLA** unless otherwise noted.
 | Base Finger Connector (MCP) | 4 | 15% | Large connector; curved underside |
 | Small Finger Connector (PIP/DIP) | 4 | 15% | Smaller connector; curved underside |
 
-> **Total estimated filament**: ~213g (model), ~230g total including support | **Print time**: ~11.5 hours on Bambu Lab P1S (single bed)
+> **Total estimated filament**: ~217g (model), ~233g total including support | **Print time**: ~11h25m on Bambu Lab P1S (single bed)
 
 ---
 
