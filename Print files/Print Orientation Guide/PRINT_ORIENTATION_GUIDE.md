@@ -1,6 +1,6 @@
 # 🖨️ Print Guide — Hand Exoskeleton
 
-This guide covers the print setup for all 3D-printed parts of the hand exoskeleton. The Bambu Studio `.3mf` project file (`Hand Exo.3mf`) is configured for the **Bambu Lab P1S** and is available in `Print Files/BambuStudio/`. It is recommended to view the print in **Line Type** color scheme in Bambu Studio to distinguish support structures from actual part filament before printing.
+This guide covers the print setup for all 3D-printed parts of the hand exoskeleton. The Bambu Studio `.3mf` project file (`Hand Exo.3mf`) is configured for the **Bambu Lab P1S** and is available in `Print files/BambuStudio/`. It is recommended to view the print in **Line Type** color scheme in Bambu Studio to distinguish support structures from actual part filament before printing.
 
 ---
 
@@ -28,7 +28,7 @@ This guide covers the print setup for all 3D-printed parts of the hand exoskelet
 
 ## Print Bed Layout
 
-All parts fit onto a **single Bambu Lab P1S print bed** (256 mm × 256 mm). The `Hand Exo.3mf` project file in `Print Files/BambuStudio/` has all parts pre-arranged and pre-configured.
+All parts fit onto a **single Bambu Lab P1S print bed** (256 mm × 256 mm). The `Hand Exo.3mf` project file in `Print files/BambuStudio/` has all parts pre-arranged and pre-configured.
 
 **Total print statistics (from Bambu Studio slice):**
 
