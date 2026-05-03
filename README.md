@@ -1,7 +1,7 @@
 # Hand Exoskeleton — Figueroa Robotics Lab, University of Pennsylvania
 
 <p align="center">
-  <img src="Images/Hand_Exo_Render.png" alt="Hand Exoskeleton Rendered CAD" width="800"/>
+  <img src="Images/Hand_Exo_Iso_View.jpg" alt="Hand Exoskeleton Rendered CAD" width="800"/>
 </p>
 
 > **Status: Active Development** — Current version supports 4-finger actuation (index, middle, ring, pinky). Thumb integration is ongoing.
@@ -27,8 +27,10 @@ hand_exoskeleton/
 │   ├── Hand Exoskeleton - Left/   # SolidWorks assembly and part files (left hand)
 │   └── STL Files/                 # Exported STL files for all printed parts
 ├── Print Files/
-│   ├── BambuStudio/               # .3mf project files configured for Bambu Lab P1S
+│   ├── BambuStudio/               # `Hand Exo.3mf` — configured for Bambu Lab P1S
 │   └── Print Orientation Guide/   # PRINT_ORIENTATION_GUIDE.md + screenshots
+├── Datasheets/                    # Datasheets for all electronic components
+├── Code/                          # Control code for the hand exoskeleton
 └── README.md
 ```
 
@@ -298,7 +300,7 @@ See [`Print Files/Print Orientation Guide/PRINT_ORIENTATION_GUIDE.md`](Print%20F
 - All parts fit on a **single Bambu Lab P1S bed** (~256 mm × 256 mm)
 - Supports are required on the wrist mount and finger connectors; remove carefully after printing
 
-> **Tip**: View the .3mf file in **Line Type** color scheme in Bambu Studio to distinguish support material from part material before starting the print.
+> **Tip**: View `Hand Exo.3mf` in **Line Type** color scheme in Bambu Studio to distinguish support material from part material before starting the print.
 
 ---
 
