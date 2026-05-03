@@ -1,7 +1,11 @@
 # Hand Exoskeleton — Figueroa Robotics Lab, University of Pennsylvania
 
 <p align="center">
-  <img src="Images/Hand_Exo_Iso_View.jpg" alt="Hand Exoskeleton Rendered CAD" width="800"/>
+  <img src="Images/Hand_Exo_Iso_View.jpg" alt="Hand Exoskeleton Rendered CAD" width="49%"/>
+  <img src="Images/Hand_Exo_Prototype_Closeup.jpeg" alt="Hand Exoskeleton Physical Prototype" width="49%"/>
+</p>
+<p align="center">
+  <em>Left: SolidWorks render of the left-hand exoskeleton. Right: Physical prototype worn on a user's hand, showing the 4-finger linkage system, spur gear transmission, and wrist-mounted electronics housing.</em>
 </p>
 
 > **Status: Active Development** — Current version supports 4-finger actuation (index, middle, ring, pinky). Thumb integration is ongoing.
@@ -398,7 +402,7 @@ Connect the battery and power on the device. Command the servo to flex and exten
 | 4-finger mechanical design (left hand) | ✅ Complete |
 | Gear transmission + transmission shaft | ✅ Complete |
 | Electronics architecture | ✅ Defined |
-| Physical assembly & first hardware build | ✅ Complete |
+| Physical assembly & first hardware build | ✅ Complete — see prototype photo above |
 | Smooth finger actuation (linkage kinematics refinement) | 🔄 In progress — current design does not yet produce smooth motion when motor is actuated; linkage geometry and transmission tuning ongoing |
 | Wrist mount housing optimization | 🔄 In progress — current wrist mount is first-pass geometry; electronics mounting, cable routing, and cover design not yet finalized |
 | Right hand variant CAD | 🔲 Future work |
