@@ -24,8 +24,8 @@ This design draws inspiration from and extends the work of [Esposito et al. (202
 hand_exoskeleton/
 ├── Images/                        # Photos and renders used in this README
 ├── CAD/
-│   └── Hand Exoskeleton - Left/   # SolidWorks assembly and part files (left hand)
-├── STL Files/                     # Exported STL files for all printed parts
+│   ├── Hand Exoskeleton - Left/   # SolidWorks assembly and part files (left hand)
+│   └── STL Files/                 # Exported STL files for all printed parts
 ├── Print Files/
 │   ├── BambuStudio/               # .3mf project files configured for Bambu Lab P1S
 │   └── Print Orientation Guide/   # PRINT_ORIENTATION_GUIDE.md + screenshots
