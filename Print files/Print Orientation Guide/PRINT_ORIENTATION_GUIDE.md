@@ -44,47 +44,17 @@ All parts fit onto a **single Bambu Lab P1S print bed** (256 mm × 256 mm). The 
   <img src="../../Images/Hand_Exo_Full_Bed.png" alt="Full bed slice view in Bambu Studio" width="800"/>
 </p>
 
-*Full bed layout shown in Line Type color scheme. Orange/red = part walls and infill. Green = support structures. Blue = travel moves.*
+*Full bed layout shown in Line Type color scheme. Red = part infill and walls. Green = support structures. Blue = brim.*
 
 ---
 
 ## Part Orientation Guidelines
 
-### Wrist Mount
-Print **flat on its back face** (the surface that contacts the wrist faces down). This maximizes layer adhesion along the length of the part and minimizes the number of supports needed. Supports are required on the motor mount interface area and the electronics bay walls.
-
-### Motor Mount
-Print with the **motor face up**. No supports needed.
-
-### Right Transmission Mount
-Print **upright** with the bearing seat face up. Minimal or no supports required.
-
 ### Transmission Shaft
-Print **horizontal / flat on the bed**. This gives the best layer orientation for torsional strength along the shaft's length. No supports needed.
+Print **horizontal / flat on the bed**. This gives the best layer orientation for torsional strength along the shaft's length and the best surface finish on the shaft geometry. No supports needed.
 
-### Large Spur Gear (50T)
-Print **flat on the tooth face** (gear face down, hub up). This produces the best surface finish on the tooth profile and the most accurate tooth geometry. No supports needed.
-
-### Small Spur Gear (20T)
-Same as large gear — print **flat on the tooth face**. No supports needed.
-
-### Base Linkages
-Print **flat on the bed** (longest dimension along the bed). No supports needed.
-
-### Intermediate Linkages (130 mm and 100 mm)
-Print **flat on the bed**. No supports needed.
-
-### Vertical Linkages
-Print **flat on the bed**. No supports needed.
-
-### L-Shape Linkages
-Print **flat on the bed**, with the L-shape's longest arm lying flat. No supports needed.
-
-### Base Finger Connectors (MCP)
-Print **curved side down** (the side that contacts the finger faces the bed). Supports are required on the overhang at the slot and on the linkage mounting interfaces. Remove supports carefully to avoid damaging the slot geometry.
-
-### Small Finger Connectors (PIP/DIP)
-Same as base finger connectors — print **curved side down**. Supports required.
+### L-Shape Linkages & Finger Connectors (MCP and PIP/DIP)
+Print at a **~30° tilt** to minimize the amount of support material needed on the curved and slotted faces. This significantly reduces support cleanup time while maintaining good surface quality on the contact surfaces.
 
 ---
 
