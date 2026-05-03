@@ -41,7 +41,7 @@ All parts fit onto a **single Bambu Lab P1S print bed** (256 mm × 256 mm). The 
 | Estimated cost | ~$5.74 |
 
 <p align="center">
-  <img src="screenshots/Hand_Exo_Full_Bed.png" alt="Full bed slice view in Bambu Studio" width="800"/>
+  <img src="../../Images/Hand_Exo_Full_Bed.png" alt="Full bed slice view in Bambu Studio" width="800"/>
 </p>
 
 *Full bed layout shown in Line Type color scheme. Orange/red = part walls and infill. Green = support structures. Blue = travel moves.*
