@@ -18,7 +18,7 @@ This repository contains all design files, electronics documentation, and assemb
 
 The device targets grip assistance by actuating all four fingers simultaneously through a single Waveshare ST3215 servo motor, a gear transmission, and a parallel four-bar linkage system per finger. All structural components are 3D printed in PLA on a single print bed, keeping cost and fabrication time low while maintaining sufficient mechanical strength for the target torque requirements.
 
-This design draws inspiration from and extends the work of [Esposito et al. (2022) — *Machines*, MDPI](https://www.mdpi.com/2075-1742/10/1/57), adapting it for a more compact, wrist-mounted form factor with a spur gear transmission replacing a Bowden cable mechanism.
+This design draws inspiration from and extends the work of [Esposito et al. (2022) — *Machines*, MDPI](https://www.mdpi.com/2075-1702/10/1/57), adapting it for a more compact, wrist-mounted form factor with a spur gear transmission replacing a Bowden cable mechanism.
 
 ---
 
@@ -30,7 +30,7 @@ hand_exoskeleton/
 ├── CAD/
 │   ├── Hand Exoskeleton - Left/   # SolidWorks assembly and part files (left hand)
 │   └── STL Files/                 # Exported STL files for all printed parts
-├── Print Files/
+├── Print files/
 │   ├── BambuStudio/               # `Hand Exo.3mf` — configured for Bambu Lab P1S
 │   └── Print Orientation Guide/   # PRINT_ORIENTATION_GUIDE.md + screenshots
 ├── Datasheets/                    # Datasheets for all electronic components
@@ -291,7 +291,7 @@ All parts are printed in **PLA** unless otherwise noted.
 
 ### 5.1 Print Guide
 
-See [`Print Files/Print Orientation Guide/PRINT_ORIENTATION_GUIDE.md`](Print%20Files/Print%20Orientation%20Guide/PRINT_ORIENTATION_GUIDE.md) for the complete print setup, bed layout screenshots, and per-part orientation guidance.
+See [`Print files/Print Orientation Guide/PRINT_ORIENTATION_GUIDE.md`](Print%20files/Print%20Orientation%20Guide/PRINT_ORIENTATION_GUIDE.md) for the complete print setup, bed layout screenshots, and per-part orientation guidance.
 
 **Summary:**
 
@@ -415,7 +415,7 @@ Connect the battery and power on the device. Command the servo to flex and exten
 
 ## 7. References
 
-- Esposito, D. et al. (2022). *A Mechanical Hand Exoskeleton for Rehabilitation of Post-Stroke and SCI Patients*. Machines, 10(1), 57. [https://www.mdpi.com/2075-1742/10/1/57](https://www.mdpi.com/2075-1742/10/1/57)
+- Esposito, D. et al. (2022). *A Mechanical Hand Exoskeleton for Rehabilitation of Post-Stroke and SCI Patients*. Machines, 10(1), 57. [https://www.mdpi.com/2075-1702/10/1/57](https://www.mdpi.com/2075-1702/10/1/57)
 - Waveshare ST3215 Servo: [https://www.waveshare.com/st3215-servo.htm](https://www.waveshare.com/st3215-servo.htm)
 - Grip strength reference data: Leyk et al. (2007), [Springer](https://link.springer.com/article/10.1186/s12891-015-0612-4/tables/2)
 
