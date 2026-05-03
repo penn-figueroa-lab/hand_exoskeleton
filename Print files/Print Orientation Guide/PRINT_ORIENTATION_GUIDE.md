@@ -34,11 +34,11 @@ All parts fit onto a **single Bambu Lab P1S print bed** (256 mm × 256 mm). The 
 
 | Parameter | Value |
 |---|---|
-| Total filament | ~229.75 g |
-| Model filament | ~212.64 g |
-| Support filament | ~16.42 g |
-| Total print time | ~11 hours 32 minutes |
-| Estimated cost | ~$5.74 |
+| Total filament | ~232.53 g |
+| Model filament | ~216.94 g |
+| Support filament | ~15.11 g |
+| Total print time | ~11 hours 25 minutes |
+| Estimated cost | ~$5.81 |
 
 <p align="center">
   <img src="../../Images/Hand_Exo_Full_Bed.png" alt="Full bed slice view in Bambu Studio" width="800"/>
@@ -53,7 +53,7 @@ All parts fit onto a **single Bambu Lab P1S print bed** (256 mm × 256 mm). The 
 ### Transmission Shaft
 Print **horizontal / flat on the bed**. This gives the best layer orientation for torsional strength along the shaft's length and the best surface finish on the shaft geometry. No supports needed.
 
-### L-Shape Linkages & Finger Connectors (MCP and PIP/DIP)
+### L-Shape Linkages, Intermediate Linkages & Finger Connectors (MCP and PIP/DIP)
 Print at a **~30° tilt** to minimize the amount of support material needed on the curved and slotted faces. This significantly reduces support cleanup time while maintaining good surface quality on the contact surfaces.
 
 ---
